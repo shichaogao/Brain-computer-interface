@@ -1,2 +1,2 @@
-# Brain-computer-interface-
+# Brain-computer-interface
 General development of BCI 
