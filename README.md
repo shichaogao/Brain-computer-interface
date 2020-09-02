@@ -11,3 +11,4 @@ General development of BCI (mainly on invasive neural recording or closed-loop b
 
 <span id='jump_2'>Frontier</span><br>
 1.[Neurosciences and 6G: Lessons from and Needs of Communicative Brains](https://arxiv.org/abs/2004.01834).arXiv.2020.04.<br>
+2.[Cyberattacks on Miniature Brain Implants to Disrupt Spontaneous Neural Signaling]https://arxiv.org/abs/2007.09466.arXiv.2020.08.<br>
