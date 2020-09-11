@@ -8,8 +8,8 @@ General development of BCI (mainly on invasive neural recording or closed-loop b
 
 <span id='jump_1'>BCI equipment</span><br>
 1.[Power-saving design opportunities for wireless intracortical brain–computer interfaces](https://www.nature.com/articles/s41551-020-0595-9).Nature Biomedical Engineering,2020.07<br>
-2.[Electronic neural interfaces](https://www.nature.com/articles/s41928-020-0390-3).Nature Electronics.2020,04.
-3.[Clinical translation of a high-performance neural prosthesis]
+2.[Electronic neural interfaces](https://www.nature.com/articles/s41928-020-0390-3).Nature Electronics.2020,04.<br>
+3.[Clinical translation of a high-performance neural prosthesis](https://www.nature.com/articles/nm.3953).Nature.2015.12.<br>
 
 <span id='jump_2'>Applications</span><br>
 
